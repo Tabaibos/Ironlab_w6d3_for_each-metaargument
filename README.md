@@ -3,7 +3,7 @@ each challenge is displayed on a different branch for organizational purpose
 
 
 Q: When would a map + for_each be safer than count? Give an example.
-A: you can specificy traits like ami or machine types in map +for_each
+A: you can specificy traits like ami or machine types in map +for_each therefore it is keys based instead of index based.
 
 
 
