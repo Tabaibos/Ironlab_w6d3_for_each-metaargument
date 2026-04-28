@@ -4,6 +4,7 @@ each challenge is displayed on a different branch for organizational purpose
 
 Q: When would a map + for_each be safer than count? Give an example.
 A: you can specificy traits like ami or machine types in map +for_each therefore it is keys based instead of index based.
+Also, if by someway a list is created by accident with an excessive amount of an elements it may propagate to an exagerated amount of resources without any need for them
 
 
 
